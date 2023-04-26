@@ -1,6 +1,6 @@
 # LocoBus
 
-Flutter News App
+Flutter Bus App
 
 ## Getting Started
 
